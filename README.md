@@ -19,11 +19,3 @@ pnpm dev          # http://localhost:5173
 | `/products` | Nested layout + dynamic param + 404 |
 | `/forms`    | `<Form>` action vs `useMutation`    |
 | `/tform`    | TanStack Form with field validation |
-
-## Scripts
-
-```sh
-pnpm typecheck
-pnpm lint
-pnpm format
-```
