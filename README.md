@@ -1,6 +1,6 @@
 # baum-react-router
 
-Minimal demos of React Router v7 (framework mode) patterns, plus TanStack Query, TanStack Form, MSW, and Tailwind v4.
+Minimal demos of React Router v7 patterns, plus TanStack Query, TanStack Form, MSW, and Tailwind v4.
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/jihnma/baum-react-router)
 
